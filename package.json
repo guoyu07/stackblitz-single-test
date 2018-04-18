@@ -24,6 +24,7 @@
     "core-js": "^2.4.1",
     "igniteui-angular-charts": "^5.3.0-rc.1",
     "rxjs": "^5.5.6",
+    "tslib": "^1.9.0",
     "zone.js": "^0.8.19"
   },
   "devDependencies": {
